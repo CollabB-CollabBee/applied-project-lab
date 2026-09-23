@@ -132,3 +132,5 @@ When uncertainty exists, project suitability will be reviewed on a case-by-case 
 Applied Project Lab reserves the right to decline projects that conflict with these principles.
 
 The objective is not only to build things, but to develop the responsibility, judgment, and professional conduct required to contribute positively to real projects and society.
+---
+_Last updated: 2026-09-23_
